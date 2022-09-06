@@ -14,8 +14,8 @@ instagram_username: non
 facebook_username: non
 linkedin_username: non
 github_username:  ursa-ping
-# medium_username: lynn
-# medium_url: non
-# gplus_username:  non
+# medium_username: lorem_ipsum
+# medium_url: lorem_ipsum.medium.com
+# gplus_username:  lorem_ipsum
 
 exclude: ['package.json', 'src' , 'node_modules']
